@@ -31,6 +31,12 @@
                                 <rect key="frame" x="201" y="209" width="44" height="30"/>
                                 <state key="normal" title="提交"/>
                             </button>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="用户名或密码错误" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="ZqT-dN-XRL">
+                                <rect key="frame" x="99" y="209" width="83" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                                <color key="textColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
@@ -39,6 +45,7 @@
                         <outlet property="nameText" destination="mAU-1a-0Lh" id="QIb-ZX-N9P"/>
                         <outlet property="pasWord" destination="Fe6-5C-ivT" id="Zfk-v8-gen"/>
                         <outlet property="submitBtn" destination="9hZ-ET-0LB" id="fgx-2c-wwz"/>
+                        <outlet property="tipsLabel" destination="ZqT-dN-XRL" id="ubL-Ve-KgS"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
