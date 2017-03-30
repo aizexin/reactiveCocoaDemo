@@ -4,27 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MLTransition.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Masonry.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods.xcscheme</key>
+		<key>Pods-reactiveCocoaDemo.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>ReactiveCocoa.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Result.xcscheme</key>
+		<key>ReactiveObjC.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -32,27 +22,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>A3C78063375CE56CB288AF0CDBBED560</key>
+		<key>166743B4DC96627DC16C6AF454F39DCE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A9A83F63385AA43314397B8DD375464B</key>
+		<key>51D4F6E108F4307B444A4A1A178013CB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D8E9E014C9EEF76544057EE3848DEA57</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E70CF887A671B65EE34A09E1309FFB2E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>FF9AFEF3BFD5915A5542AEC6275CE008</key>
+		<key>D52144DE9D7255DE912490FF5A806573</key>
 		<dict>
 			<key>primary</key>
 			<true/>

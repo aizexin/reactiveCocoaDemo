@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "ReactiveCocoa.h"
+#import <ReactiveObjC/ReactiveObjC.h>
 #import "RWDummySignInService.h"
 @interface ViewController ()
 @property (weak, nonatomic) IBOutlet UITextField *nameText;
